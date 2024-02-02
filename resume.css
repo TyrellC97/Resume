@@ -1,0 +1,79 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    margin: 5px;
+    object-fit: contain;
+    color:white;
+
+}
+
+
+body{
+    background-color: #626262;
+   
+}
+.header {
+    border: 3px solid black;
+    border-radius: 5px;
+    height: 235px;
+    padding: 10px;
+    justify-content: space-evenly;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-color: rgb(57, 57, 57);
+
+}
+
+.pic img {
+    
+    width: 10%;
+    height: 10%; 
+    float: left;
+    padding-right: 15px;
+    }
+
+ .info {
+    width: 20%;
+    float: right;}
+
+    .name {
+text-align: center;
+    }
+    
+.summary {
+    border: 3px solid black;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-color: rgb(57, 57, 57);
+
+   
+}
+
+.mid-section {
+    display: flex;
+    
+}
+
+#education {
+ width: 50%;
+ border: 3px solid black;
+border-radius: 5px;
+box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+background-color: rgb(57, 57, 57);
+}
+
+#skills {
+    width: 50%;
+    border: 3px solid black;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-color: rgb(57, 57, 57);
+}
+
+.employmentHistory {
+    border: 3px solid black;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-color: rgb(57, 57, 57);
+}
+
+
